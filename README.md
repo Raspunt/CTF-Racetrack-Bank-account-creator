@@ -1,6 +1,6 @@
 This code is for a CTF challenge. Here is the URL:[ Racetrack Bank](https://tryhackme.com/r/room/racetrackbank).
 
-This is the first stage of the CTF, which involves creating a user that provides access to our dear account, "box."
+This is the first stage of the CTF, which involves creating a user that provides giving gold to our dear account, "boxman"
 
 browser.py is the slow version, but it uses Selenium. Selenium is cool!<br />
 api.py uses the requests library, making it a Selenium-free version with over 100 threads!
