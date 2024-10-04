@@ -11,7 +11,7 @@ logout_post_url = f"{host}/api/logout"
 create_post_url = f"{host}/api/create"
 giving_post_url = f"{host}/api/givegold"
 
-main_user = "box"
+main_user = "boxman"
 logging.basicConfig(level=logging.INFO)
 
 def login_in_site(username: str, password: str, session: requests.Session) -> None:
