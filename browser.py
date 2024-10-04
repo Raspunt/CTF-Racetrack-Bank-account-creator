@@ -15,7 +15,7 @@ logout_page = f"{host}/api/logout"
 create_page = f"{host}/create.html"
 giving_page = f"{host}/giving.html"
 
-main_user = "box"
+main_user = "boxman"
 
 def login_in_site(driver, username, password):
     driver.get(login_page)
